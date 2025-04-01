@@ -1,4 +1,4 @@
-queue_on_teleport(loadstring(game:HttpGet("https://raw.githubusercontent.com/luckzmethodontop2/f/refs/heads/main/Heas"))())
+
 repeat wait() until game:GetService("Players").LocalPlayer:FindFirstChild("PlayerGui") 
 repeat wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("StartMenu")
 
