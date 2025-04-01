@@ -1,4 +1,4 @@
-
+-- update
 repeat wait() until game:GetService("Players").LocalPlayer:FindFirstChild("PlayerGui") 
 repeat wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("StartMenu")
 
